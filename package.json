@@ -12,7 +12,7 @@
   "devDependencies": {
     "@tsconfig/node26": "^26.0.0",
     "@opencode-ai/plugin": "^1.17.8",
-    "@types/node": "^25.9.3",
+    "@types/node": "^26.0.0",
     "tsup": "^8.5.1",
     "typescript": "^6.0.3"
   },
