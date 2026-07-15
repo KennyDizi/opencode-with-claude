@@ -1,5 +1,33 @@
 # Changelog
 
+## [1.6.17](https://github.com/ianjwhite99/opencode-with-claude/compare/v1.6.16...v1.6.17) (2026-07-09)
+
+
+### Bug Fixes
+
+* package.json issue ([#171](https://github.com/ianjwhite99/opencode-with-claude/issues/171)) ([5aedc6c](https://github.com/ianjwhite99/opencode-with-claude/commit/5aedc6c3e9457e93acd99785d0addf945cae6b0c))
+
+## [1.6.16](https://github.com/ianjwhite99/opencode-with-claude/compare/v1.6.15...v1.6.16) (2026-07-09)
+
+
+### Bug Fixes
+
+* bump Meridian 1.45.0 & update to TypeScript 7 ([#169](https://github.com/ianjwhite99/opencode-with-claude/issues/169)) ([668a007](https://github.com/ianjwhite99/opencode-with-claude/commit/668a007076679f5ff8f20c49f29dc9c0a2e0c493))
+
+## [1.6.15](https://github.com/ianjwhite99/opencode-with-claude/compare/v1.6.14...v1.6.15) (2026-07-09)
+
+
+### Bug Fixes
+
+* stop pinning MERIDIAN_WORKDIR at plugin init ([#167](https://github.com/ianjwhite99/opencode-with-claude/issues/167)) ([a816a64](https://github.com/ianjwhite99/opencode-with-claude/commit/a816a640b355c64bbe53c0a5be6223d149d624d4))
+
+## [1.6.14](https://github.com/ianjwhite99/opencode-with-claude/compare/v1.6.13...v1.6.14) (2026-06-25)
+
+
+### Bug Fixes
+
+* bump versions ([#163](https://github.com/ianjwhite99/opencode-with-claude/issues/163)) ([c944d8d](https://github.com/ianjwhite99/opencode-with-claude/commit/c944d8d958ddfe9e6e4ea9c05416297075a38ff6))
+
 ## [1.6.13](https://github.com/ianjwhite99/opencode-with-claude/compare/v1.6.12...v1.6.13) (2026-06-17)
 
 

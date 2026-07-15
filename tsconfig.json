@@ -1,12 +1,13 @@
 {
   "extends": "@tsconfig/node26/tsconfig.json",
   "compilerOptions": {
-    "ignoreDeprecations": "6.0",
+    "target": "es2024",
     "module": "ESNext",
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
     "rewriteRelativeImportExtensions": true,
     "declaration": true,
+    "emitDeclarationOnly": true,
     "outDir": "dist",
     "rootDir": "src",
     "strict": true,
